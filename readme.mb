@@ -1,0 +1,29 @@
+# Web Scraping Project
+
+## Description
+
+This project uses Python to scrape book information from
+Books to Scrape, a website created for web scraping practice.
+
+## Technologies Used
+
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+
+## Data Collected
+
+The scraper collects:
+
+- Book Title
+- Price
+- Rating
+- Book URL
+
+## Installation
+
+Install the required Python libraries:
+
+```bash
+python -m pip install -r requirements.txt
